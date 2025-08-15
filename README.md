@@ -1,7 +1,5 @@
-# Serverless & Event-Driven Services – Azure vs AWS vs GCP  
-**Course:** CST8917 – Serverless Applications  
-**Author:** Tarang Savaj  
-**Date:** August 15, 2025  
+# CST8917 – Serverless Applications  
+## Serverless & Event-Driven Services – Azure vs AWS vs GCP  
 
 ---
 
